@@ -32,6 +32,8 @@ for i in range(4):
 
     u,c = solicitud()
     confirmacion = str(s.validar_users(u,c)    )
+    
+    HSJDJSDJ
 
     if confirmacion == "1" and contador < 4:
         print("Usuario erroneo: ")
